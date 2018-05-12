@@ -1,10 +1,16 @@
 _repo: Hints-on-Wolf-and-Coyote-Trapping_47639
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47639-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Stanley P.
     gutenberg_agent_id: '44407'
     url: http://www.gutenberg.org/2009/agents/44407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47639#Hints-on-Wolf-and-Coyote-Trapping
 gutenberg_issued: '2014-12-12'
 gutenberg_type: Text
 identifiers:
